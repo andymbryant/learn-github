@@ -1,4 +1,6 @@
 # learn-github
+<html lang="en">
+
 Thinkful Project
 
 hello
